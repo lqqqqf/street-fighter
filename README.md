@@ -1,5 +1,5 @@
-#街头霸王
-##主要接口
+# 街头霸王
+## 主要接口
 1 io.github.lqqqqf.streetfighter.Fighter
 提供格斗家的扩展
 2 io.github.lqqqqf.streetfighter.Command
