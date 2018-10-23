@@ -15,9 +15,9 @@ public class SeniorPlayer extends Player {
     @Override
     protected List<SkillMastery> addSkill() {
         List<SkillMastery> list = new ArrayList<>();
-        SkillMastery beatMastery = new SkillMastery(Ken.class.getName(), "beat", 1);
+        SkillMastery beatMastery = new SkillMastery(Ken.class.getName(), "beat", 2);
         list.add(beatMastery);
-        SkillMastery hitMastery = new SkillMastery(Ken.class.getName(), "hit", 3);
+        SkillMastery hitMastery = new SkillMastery(Ken.class.getName(), "hit", 4);
         list.add(hitMastery);
         SkillMastery kickMastery = new SkillMastery(Ken.class.getName(), "kick", 3);
         list.add(kickMastery);
